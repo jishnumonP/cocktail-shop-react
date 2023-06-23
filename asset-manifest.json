@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cocktail-shop-react/static/css/main.274aee27.css",
+    "main.js": "/cocktail-shop-react/static/js/main.0666bf49.js",
+    "static/media/logo.svg": "/cocktail-shop-react/static/media/logo.f43a2245f2e27c8b1b645f22293ac86d.svg",
+    "index.html": "/cocktail-shop-react/index.html",
+    "main.274aee27.css.map": "/cocktail-shop-react/static/css/main.274aee27.css.map",
+    "main.0666bf49.js.map": "/cocktail-shop-react/static/js/main.0666bf49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.274aee27.css",
+    "static/js/main.0666bf49.js"
+  ]
+}
